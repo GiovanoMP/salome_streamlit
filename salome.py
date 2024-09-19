@@ -4,8 +4,7 @@ import streamlit as st
 st.title('Salomé - Nicho, Segmento e Estilo')
 
 # Exibindo a imagem
-st.imagehttps:('https://raw.githubusercontent.com/GiovanoMP/salome_streamlit/main/imagem_salome.jpg', caption='Coleção Curvas de Movimento')
-
+st.imagehttps:('https://raw.githubusercontent.com/GiovanoMP/salome_streamlit/main/imagem_salome.jpg')
 # Texto principal do site
 st.subheader('Nicho, Segmento e Estilo')
 st.write("""
